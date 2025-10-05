@@ -10,7 +10,7 @@
 
 ## 🧰 Tech Stack
 
-- **Frontend**: Basic HTML/CSS (optional / placeholder UI)
+- **Frontend**: Basic HTML/CSS
 - **Backend**: None (focus was on SQL logic and schema)
 - **Database**: MySQL / SQLite (depending on setup)
 
@@ -34,7 +34,4 @@ Normalization and indexing basics
 This is a learning project and may not include advanced error handling, UI polish, or production-grade practices. The focus is on clean schema design and effective SQL usage.
 
 
-
-
-Ask ChatGPT
 
